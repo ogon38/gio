@@ -792,9 +792,12 @@ body{
     font-size: 13px;
 }
 .card p {
-    font-size: 10px;
+    font-size: 14px;
     line-height: 20px;
     padding: 16px 0 27px;
+}
+.card p br{
+    display: none;
 }
 
 }
