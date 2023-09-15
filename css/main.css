@@ -923,7 +923,7 @@ body{
 
     .card p {
         padding: 26px 0 33px;
-        font-size: 3vw;
+        font-size: 18px;
     }
     .card h2 {
         font-size: 5vw;
@@ -1023,6 +1023,13 @@ body{
     display: block;
     margin-top: 79.92px;
 }
+}
+
+
+@media (max-width:400px){
+    .card p {
+        font-size: 14px;
+    }
 }
 
 @media (max-width:330px){
