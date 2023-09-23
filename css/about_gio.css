@@ -739,20 +739,7 @@ span{
     }
 
 
-    /* footer */
-    .footer_in {
-        top: 50%;
-    }
-    .footer_in img{
-        width: 25%;
-    }
 
-    .footer_in ul {
-       padding: 8px 0 9px;
-    }
-    .footer_in p{
-        font-size: 15px;
-    }
 
 
 

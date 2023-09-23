@@ -792,12 +792,9 @@ body{
     font-size: 13px;
 }
 .card p {
-    font-size: 14px;
+    font-size: 10px;
     line-height: 20px;
     padding: 16px 0 27px;
-}
-.card p br{
-    display: none;
 }
 
 }
@@ -923,7 +920,7 @@ body{
 
     .card p {
         padding: 26px 0 33px;
-        font-size: 18px;
+        font-size: 3vw;
     }
     .card h2 {
         font-size: 5vw;
@@ -1023,13 +1020,6 @@ body{
     display: block;
     margin-top: 79.92px;
 }
-}
-
-
-@media (max-width:400px){
-    .card p {
-        font-size: 14px;
-    }
 }
 
 @media (max-width:330px){
