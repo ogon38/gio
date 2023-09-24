@@ -201,6 +201,10 @@ body{
         #main_video video{
             margin-top: 79.92px;
             overflow: hidden;
+            width: 100%;
+        }
+        .artist_box img{
+            width: 100%;
         }
         
         #main_video{
