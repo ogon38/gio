@@ -374,6 +374,9 @@ body{
     position: relative;
     margin-bottom: 30px;
 }
+#footer>img{
+    width: 100%;
+}
 .footer_in{
     position: absolute;
     text-align: center;

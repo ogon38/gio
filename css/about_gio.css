@@ -224,7 +224,7 @@ body{
 
         #main_video video{
             margin-top: 79.92px;
-          
+          width: 100%;
         }
 
 
@@ -535,6 +535,9 @@ span{
     margin-top: 150px;
     position: relative;
     margin-bottom: 30px;
+}
+#footer>img{
+    width: 100%;
 }
 .footer_in{
     position: absolute;

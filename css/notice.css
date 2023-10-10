@@ -474,6 +474,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#686eb3', end
     position: relative;
     margin-bottom: 30px;
 }
+#footer>img{
+    width: 100%;
+}
 .footer_in{
     position: absolute;
     text-align: center;
@@ -599,6 +602,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#686eb3', end
 
 
     /* footer */
+    
     .footer_in {
         top: 50%;
     }
